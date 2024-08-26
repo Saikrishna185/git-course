@@ -1,1 +1,2 @@
 This is first file in three directory.
+Add some text to this file.
